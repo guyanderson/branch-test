@@ -3,3 +3,21 @@ ul {
   margin: 0;
   padding: 0;
 }
+li a {
+  display: block;
+  width: 100px;
+  background: gray;
+  color: white;
+}
+
+li a:hover {
+  background: black;
+  color: green;
+}
+ body {
+   background-color: #ff99ff;
+ }
+
+ img {
+   padding-left: 120px;
+ }
